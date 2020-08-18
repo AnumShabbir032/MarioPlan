@@ -99,6 +99,16 @@ ul li a {
     
 }
 
+.icon img{
+    height: 25px;
+    margin-left: 10px;
+    cursor: pointer;
+   
+}  
+/* .icon{
+   margin-left: 20px;
+} */
+
 .btn button{
     padding: 10px 20px;
     margin-right: 15px;
